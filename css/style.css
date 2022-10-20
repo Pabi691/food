@@ -22,7 +22,7 @@
 .nav-menu ul{
   display: flex;
   align-items: center;
-  margin-left: 550px;
+  margin-left: 326px;
 }
 .nav-menu li{
   list-style: none;
@@ -32,10 +32,10 @@
   text-decoration: none;
   color: #fff;
   text-transform: uppercase;
-  font-size: 25px;;
+  font-size: 20px;;
   font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  margin-right: 100px;
+  font-weight: 600;
+  margin-right: 86px;
 }
 .banner{
   position: relative;
@@ -45,7 +45,7 @@
 .banner h1{
   font-family: 'PT Sans', sans-serif;
   color: #fff;
-  font-size: 120px;
+  font-size: 100px;
   font-weight: 600;
 }
 .banner p{
@@ -240,16 +240,16 @@ font-size: 25px;
 }
 .burger-2 img{
   margin-left: 500px;
-  margin-right: 475px;
+  margin-right: 392px;
   margin-top: -165px;
 }
 .mus-2 img{
   margin-left: 360px;
-  margin-right: 546px;
+  margin-right: 395px;
 }
 .leaf-2 img{
-  padding-left: 227px;
-  padding-bottom: 25px;
+  padding-left: 0;
+  padding-bottom: 0;
 }
 .section-4{
   background: #f64b3c;
@@ -471,7 +471,7 @@ img.cap-7-2{
 img.gar-7{
   right: 0;
   bottom: 0;
-  margin-right: 118px;
+  margin-right: 46px;
   margin-bottom: 318px;
 }
 img.leaf-7-2{
@@ -502,8 +502,9 @@ img.leaf-7{
   display: flex;
 }
 .footer-col-1{
-  margin-left: 200px;
+  margin-left: 89px;
   padding-top: 250px;
+  width:480px;
 }
 .footer-col-1 h2{
   font-size: 35px;
@@ -519,16 +520,18 @@ img.leaf-7{
   margin-right: 15px;
 }
 .footer-col-2{
-  margin-left: 200px;
+  margin-left: 32px;
   margin-top: 231px;
 }
 .footer-col-3{
-  margin-left: 100px;
+  margin-left: 85px;
   margin-top: 231px;
 }
 .footer-col-4{
-  margin-left: 100px;
-  margin-top: 231px;
+    margin-left: 92px;
+    margin-top: 231px;
+    padding-right: 0;
+    margin-right: 80px;
 }
 .footer-col-2 h2,.footer-col-3 h2,.footer-col-4 h2{
   font-size: 35px;
